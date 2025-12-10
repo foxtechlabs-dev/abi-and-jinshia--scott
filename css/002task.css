@@ -1,0 +1,17 @@
+h1 {
+    color: yellow;
+}
+.redColor{
+    color:lab(53.23% 80.11 67.22)z;
+}
+h1 {
+    color: green;
+}
+
+.redColor{
+    color: pink;
+}
+
+*{
+    color: yellow;
+}
