@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    padding: 20px 10px 5px 2px;
+    border: 5px solid yellow;
+    border-left: 10px solid;
+    background-color: brown;
+    margin: 15px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+/* 
+Shothand -> [Top, Bottom, Right, Left], [y-axis, x-axis]
+Margin -> Left, right, top, botton
+Padding -> Left, right, top, botton
+border-radius
+*/

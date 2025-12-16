@@ -1,0 +1,42 @@
+body{
+    background-color: blanchedalmond;
+}
+.gx{
+     background-color: pink;
+    height: 450px;
+    width: 380px;
+    padding: 5px;
+    border: 5px solid blueviolet;
+    /* border-radius: 80% 20% 70% 30% / 57% 30% 70% 43% ; */
+    border-left: 10px solid green;
+    border-top: 10px solid green;
+    margin-top: 0%;
+    border-radius: 5px solid grey ;
+
+
+.hx {
+    background-color: skyblue;
+    height: 300px;
+    width: 240px;
+    padding: 50px;
+    border: 5px solid navy;
+    border-radius: 100px;
+    border-left: 10px solid purple;
+    border-right: 10px solid red;
+background-position: center;
+background-size: cover;
+.zx {
+    background-color: pink;
+    height: 200px;
+    width: 190px;
+    padding: 5px;
+    border: 5px solid blueviolet;
+    border-radius: 10px solid  ;
+    border-left: 10px solid green;
+    border-top: 10px solid green;
+    margin-top: 0%;
+    background-position: center;
+
+}
+}
+}
