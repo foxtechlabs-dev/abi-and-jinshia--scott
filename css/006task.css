@@ -11,6 +11,7 @@ body {
     border-left: 10px solid;
     border-right: 10px solid;
     margin-top: 10px;
+   border-radius:  100% 0% 0% 100% / 100% 0% 100% 0% ;
 
 }
 
